@@ -1,4 +1,3 @@
-# quiz.github.io
 
 <script>
 (function(q,u,i,z,r){
